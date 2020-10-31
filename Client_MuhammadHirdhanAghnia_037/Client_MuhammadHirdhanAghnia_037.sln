@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_MuhammadHirdhanAghnia_037", "Client_MuhammadHirdhanAghnia_037\Client_MuhammadHirdhanAghnia_037.csproj", "{E139A945-CB78-44CE-94A4-D4D83C51158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_MuhammadHirdhanAghnia_037", "Server_MuhammadHirdhanAghnia_037\Server_MuhammadHirdhanAghnia_037.csproj", "{7233C6DC-0D15-4456-8B09-57020653EB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E139A945-CB78-44CE-94A4-D4D83C51158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E139A945-CB78-44CE-94A4-D4D83C51158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E139A945-CB78-44CE-94A4-D4D83C51158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E139A945-CB78-44CE-94A4-D4D83C51158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7233C6DC-0D15-4456-8B09-57020653EB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7233C6DC-0D15-4456-8B09-57020653EB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7233C6DC-0D15-4456-8B09-57020653EB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7233C6DC-0D15-4456-8B09-57020653EB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDD826B7-61DF-4E90-8B84-4DC49B1E9521}
+	EndGlobalSection
+EndGlobal
